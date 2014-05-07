@@ -1,0 +1,45 @@
+/* app css stylesheet */
+
+.table_menu {
+  list-style: none;
+  text-align: center;
+  color:white;
+  margin-left:0%; 
+}
+
+.read_more
+{
+  overflow:hidden;
+  height:4%;
+}
+.read_less
+{
+  height:auto;
+}
+.table_data
+{
+	color:black;
+}
+.odd
+{
+	background-color:#EBEBFF ;
+}
+.even
+{
+	background-color: white;
+}
+
+.table_menu td:nth-child(1)
+{
+background:grey;
+color:white;
+}
+
+.table_menu tr:first-child td
+{
+	background-color:grey;	
+}
+.border
+{
+	border:1px solid grey;
+}
